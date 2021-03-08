@@ -1,10 +1,10 @@
-### Hi there 👋
+### 👋 my profile
 
 - 😄 I’m Qian Yun
 - 🔭 I’m currently working on Cloud computing develop
 - 🌱 I’m currently learning Azure Technical knowledge
 
-Things you will find here:
+### Things you will find here
 - ⛅ Azure
 - 🚗 Azure Storage Account
 - 🐚 Azure CosmosDB
