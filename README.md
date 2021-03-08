@@ -11,6 +11,11 @@
 - 💪 Terraform
 - ⚡ Azure Functions
 - 🚀 Azure DevOps
+- 🎠 Azure ServiceBus
+- 🎡 Azure App Service
+- 🤺 Azure KeyVault
+- 🎃 Azure AAD
+- 🎏 Azure AAD B2C
 
 
 ### 📝 my blog
