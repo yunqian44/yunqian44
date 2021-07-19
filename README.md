@@ -1,7 +1,7 @@
 ### 👋 my profile
 
 - 😄 I’m Qian Yun
-- 🔭 I’m currently working on Cloud computing develop
+- 🔭 I’m currently working on Cloud Computing Develop
 - 🌱 I’m currently learning Azure Technical knowledge
 
 ### Things you will find here
