@@ -16,6 +16,8 @@
 - 🤺 Azure KeyVault
 - 🎃 Azure AAD
 - 🎏 Azure AAD B2C
+- 🎶 Azure Front Door
+- 🏭 Azure Data Factory
 
 
 ### 📝 my blog
